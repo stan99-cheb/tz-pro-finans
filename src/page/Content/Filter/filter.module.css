@@ -1,0 +1,16 @@
+.filter {
+  display: flex;
+  align-items: center;
+  column-gap: 20px;
+}
+
+.label {
+  padding: 16px 40px;
+
+  border: 1px solid teal;
+  border-radius: 20px;
+}
+
+.input {
+  width: 150px;
+}

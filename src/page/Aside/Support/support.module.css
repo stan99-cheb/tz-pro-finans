@@ -1,0 +1,48 @@
+.support {
+  padding: 20px;
+
+  border: 1px solid teal;
+  border-radius: 20px;
+
+  color: teal;
+}
+
+.title {
+  margin-bottom: 20px;
+
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.contacts {
+  margin-bottom: 20px;
+
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.link {
+  text-decoration: none;
+  color: teal;
+}
+
+.resource {
+  margin-bottom: 10px;
+
+  display: block;
+
+  font-size: 14px;
+  line-height: 16px;
+
+  border-bottom: 1px solid teal;
+  cursor: pointer;
+}
+
+.resource:last-child {
+  margin-bottom: 0;
+  border-bottom: none;
+}

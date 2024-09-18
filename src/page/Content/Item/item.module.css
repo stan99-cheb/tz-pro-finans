@@ -1,0 +1,19 @@
+.barcode {
+  width: 80px;
+}
+
+.product_brand {
+  width: 80px;
+}
+
+.product_name {
+  width: 300px;
+}
+
+.product_quantity {
+  width: 50px;
+}
+
+.price {
+  width: 70px;
+}

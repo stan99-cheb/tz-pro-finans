@@ -1,0 +1,10 @@
+.content {
+  width: 800px;
+  height: 800px;
+
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+
+  overflow: auto;
+}

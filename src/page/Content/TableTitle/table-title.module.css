@@ -1,0 +1,32 @@
+.title {
+  padding: 20px 35px 20px 20px;
+  height: 80px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  column-gap: 20px;
+
+  border: 1px solid teal;
+  border-radius: 20px 20px 0 0;
+}
+
+.barcode {
+  width: 80px;
+}
+
+.product_brand {
+  width: 110px;
+}
+
+.product_name {
+  width: 300px;
+}
+
+.product_quantity {
+  width: 70px;
+}
+
+.price {
+  width: 70px;
+}
